@@ -7,3 +7,5 @@
 #### Today I set up the workspace for my calendar program and also the datbase which will store the events. in godot I learned how to use signals.
 ## 7/17/26
 #### Today I created a file which alows people to in put an event I stugled with geting it to acsess the database corectly but I finaly got it.
+## 7/21/26
+#### I have added a file to alert if there is an ongoing event and fixed the database.
