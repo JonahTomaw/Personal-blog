@@ -9,3 +9,5 @@
 #### Today I created a file which alows people to in put an event I stugled with geting it to acsess the database corectly but I finaly got it.
 ## 7/21/26
 #### I have added a file to alert if there is an ongoing event and fixed the database.
+## 7/22/26
+#### I have made a useable version of the Calendar program where one is able to make a event and then find on going events with out haveing to open a different file.
