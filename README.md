@@ -1,4 +1,6 @@
 # Personal-blog
+## 9/4/26
+#### The website is in the first working iteration. 
 ## 7/22/26
 #### I have made a useable version of the Calendar program where one is able to make a event and then find on going events with out haveing to open a different file.
 ## 7/21/26
